@@ -1,0 +1,10 @@
+{
+  "name": "logic-layer",
+  "version": "1.0.0",
+  "description": "Logic Layer website",
+  "author": "shepda",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
